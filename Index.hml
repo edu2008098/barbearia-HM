@@ -1,43 +1,32 @@
- <!DOCTYPE html>
-<html lang="pt-br">
+<!DOCTYPE html>
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Barbearia Estilo Fino</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Barbearia Estilo</title>
+  <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-    <header>
-        <div class="logo">
-            <img src="img/logo.png" alt="Logo Barbearia Estilo Fino">
-        </div>
-        <nav>
-            <a href="index.html">Home</a>
-            <a href="produtos.html">Produtos</a>
-            <a href="contato.html">Contato</a>
-        </nav>
-    </header>
+  <header>
+    <h1>Barbearia Estilo</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="produtos.html">Produtos</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
 
+  <main>
     <section class="banner">
-        <img src="img/banner.jpg" alt="Ambiente da Barbearia">
-        <div class="cta">
-            <h1>Transforme seu estilo conosco</h1>
-            <a href="https://wa.me/5511999999999" class="btn-agendar" target="_blank">Agende seu horário</a>
-        </div>
+      <h2>Bem-vindo à Barbearia Estilo</h2>
+      <p>Tradição, estilo e cuidado com você.</p>
     </section>
+  </main>
 
-    <section class="sobre">
-        <h2>Sobre Nós</h2>
-        <p>Na Barbearia Estilo Fino, oferecemos cortes modernos e tradicionais, com atendimento personalizado em um ambiente acolhedor.</p>
-    </section>
-
-    <footer>
-        <p>&copy; 2025 Barbearia Estilo Fino | Todos os direitos reservados</p>
-        <div class="social">
-            <a href="https://facebook.com" target="_blank">Facebook</a>
-            <a href="https://instagram.com" target="_blank">Instagram</a>
-            <a href="https://wa.me/5511999999999" target="_blank">WhatsApp</a>
-        </div>
-    </footer>
+  <footer>
+    <p>&copy; 2025 Barbearia Estilo. Todos os direitos reservados.</p>
+  </footer>
 </body>
 </html>

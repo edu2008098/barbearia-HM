@@ -1,32 +1,31 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Barbearia Estilo</title>
-  <link rel="stylesheet" href="css/style.css" />
+  <meta charset="UTF-8">
+  <title>Home - Barbearia HM</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+  <!-- Cabeçalho -->
   <header>
-    <h1>Barbearia Estilo</h1>
+    <h1>Barbearia HM</h1>
     <nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="produtos.html">Produtos</a></li>
-        <li><a href="contato.html">Contato</a></li>
-      </ul>
+      <a href="index.html">Home</a>
+      <a href="produtos.html">Produtos</a>
+      <a href="contato.html">Contato</a>
     </nav>
   </header>
 
   <main>
-    <section class="banner">
-      <h2>Bem-vindo à Barbearia Estilo</h2>
-      <p>Tradição, estilo e cuidado com você.</p>
-    </section>
+    <h2>Bem-vindo à Barbearia HM</h2>
+    <p>Corte com estilo, atendimento de qualidade.</p>
   </main>
 
+  <!-- Rodapé -->
   <footer>
-    <p>&copy; 2025 Barbearia Estilo. Todos os direitos reservados.</p>
+    <p>&copy; 2025 Barbearia HM - Todos os direitos reservados</p>
   </footer>
+
 </body>
 </html>
